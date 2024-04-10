@@ -4,9 +4,18 @@ title: "Breaking Bad"
 
 ## Overview
 
-![Breaking Bad](https://images.app.goo.gl/h6Ldd1DJf27MpcUk9)
+![Breaking Bad](images.app.goo.gl/h6Ldd1DJf27MpcUk9)
 
 
 Breaking Bad is an American crime drama television series created and produced by *Vince Gilligan* for AMC. Set and filmed in Albuquerque, New Mexico, the series follows *Walter White* (*Bryan Cranston*), an underpaid, dispirited high-school chemistry teacher struggling with a recent diagnosis of stage-three lung cancer. White turns to a life of crime and partners with a former student, *Jesse Pinkman* (*Aaron Paul*), to produce and distribute methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal underworld. Breaking Bad premiered on AMC on January 20, 2008, and concluded on September 29, 2013, after five seasons consisting of 62 episodes.
 
+## Statistics of Each Season
 
+| Season | Timeslot (ET)  | Episodes | First Aired        | Viewers (millions) | Last Aired        | Viewers (millions) | Avg. Viewers (millions) |
+|--------|----------------|----------|--------------------|--------------------|-------------------|--------------------|-------------------------|
+| 1      | Sunday 10:00 pm| 7        | January 20, 2008   | 1.41               | March 9, 2008     | 1.50               | 1.23                    |
+| 2      | Sunday 10:00 pm| 13       | March 8, 2009      | 1.66               | May 31, 2009      | 1.50               | 1.30                    |
+| 3      | Sunday 10:00 pm| 13       | March 21, 2010     | 1.95               | June 13, 2010     | 1.56               | 1.52                    |
+| 4      | Sunday 10:00 pm| 13       | July 17, 2011      | 2.58               | October 9, 2011   | 1.90               | 1.87                    |
+| 5A     | Sunday 10:00 pm| 8        | July 15, 2012      | 2.93               | September 2, 2012 | 2.78               | 4.32                    |
+| 5B     | Sunday 9:00 pm | 8        | August 11, 2013    | 5.92               | September 29, 2013| 10.28              | N/A                     |
